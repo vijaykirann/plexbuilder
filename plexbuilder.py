@@ -6,7 +6,7 @@ destination_folder = 'repository'
 docker_username = 'dockerhub username to publish'
 docker_password = 'dockerhub Password'
 docker_repository = 'vijaykirann/plex-armv7'
-dockerfile = 'Dockerfile.armv7'
+dockerfile = 'Dockerfile'
 docker_tag = 'latest'
 
 # clones the repository form GIT
